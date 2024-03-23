@@ -1,0 +1,23 @@
+apiVersion: apps/v1
+kind: ReplicaSet
+metadata:
+  name: simple-webapp
+  labels:
+    app: App1
+    function: Frontend
+spec: 
+  replicas: 3
+  selector:
+    matchLabels:
+      app: App1
+  template:
+    metadata:
+      labels:
+        app: App1
+        function: Frontend
+    spec:
+      containers:
+        - name: simple-webapp
+          image: simple-webapp
+          ports:
+            - containerPort: 8080
