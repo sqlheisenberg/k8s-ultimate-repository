@@ -7,5 +7,3 @@ spec:
         - name: ubuntu-sleeper
           image: ubuntu-sleeper
           args: ["10"]
-
-          
