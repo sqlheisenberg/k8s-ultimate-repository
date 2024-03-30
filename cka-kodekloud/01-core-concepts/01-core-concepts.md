@@ -1,6 +1,11 @@
 ```bash
 kubectl get pods
 
+kubectl get pods -o wide
+
+#if you dont specify pod name, it will describe all pods
+kubectl describe pod 
+
 kubectl explain pods
 
 kubectl explain pod.spec
