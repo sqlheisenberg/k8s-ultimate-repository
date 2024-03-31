@@ -3,11 +3,11 @@ CKA exam preparation repository
 Potentialy could be transformed into K8s monorepo with all resources and notes. We will see...
 
 ## Certification Details
-Certified Kubernetes Administrator: https://www.cncf.io/certification/cka/
-Exam Curriculum (Topics): https://github.com/cncf/curriculum
-Candidate Handbook: https://www.cncf.io/certification/candidate-handbook
-Exam Tips: http://training.linuxfoundation.org/go//Important-Tips-CKA-CKAD
-Head over to this link to enroll in the Certification Exam. Remember to keep the code – 20KODE – handy to get a 20% discount while registering for the CKA exam with Linux Foundation.
+**Certified Kubernetes Administrator:** https://www.cncf.io/certification/cka/
+**Exam Curriculum (Topics):** https://github.com/cncf/curriculum
+**Candidate Handbook:** https://www.cncf.io/certification/candidate-handbook
+**Exam Tips:** http://training.linuxfoundation.org/go//Important-Tips-CKA-CKAD
+**Head over to this link to enroll in the Certification Exam. Remember to keep the code – 20KODE – handy to get a 20% discount while registering for the CKA exam with Linux Foundation.**
 
 ## Repo Content  
 Notes and code form the following books and courses:
@@ -22,7 +22,24 @@ Notes and code form the following books and courses:
 - [(original)kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way)
 
 ## AWS Resources  
+- [EKS Workshop](https://www.eksworkshop.com/)
 - [EKS GitOps with ArgoCD](https://catalog.workshops.aws/eksgitops-argocd-githubactions/en-US)
+- [EKS Best Practices Guides](https://aws.github.io/aws-eks-best-practices/)  
+- [Amazon EKS Blueprints for Terraform](https://aws-ia.github.io/terraform-aws-eks-blueprints/)  
+- [EKS Cluster Games](https://eksclustergames.com/?s=09)
 
 ## YouTube
-- [CNCF [Cloud Native Computing Foundation]](https://www.youtube.com/@cncf)
+- [CNCF [Cloud Native Computing Foundation]](https://www.youtube.com/@cncf)  
+- [Containers from the Couch](https://www.youtube.com/containersfromthecouch)
+
+## Exam Scenarios Training
+- [killer.sh](https://killer.sh/)  
+- [killercoda.com](https://killercoda.com/)  
+- [iximiuz Labs](https://labs.iximiuz.com/)
+
+## Books 
+
+
+## Blogs
+
+## People to Follow
