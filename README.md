@@ -38,7 +38,8 @@ Notes and code form the following books and courses:
 - [iximiuz Labs](https://labs.iximiuz.com/)
 
 ## Books 
-
+- [Kubernetes in Action 2nd Edition](https://www.manning.com/books/kubernetes-in-action-second-edition)  
+- [Mastering Kubernetes 4th Edition](https://www.amazon.com/Kubernetes-operate-world-class-container-native-systems/dp/1804611395)
 
 ## Blogs
 - [Daniel Polencic](https://medium.com/@danielepolencic)
