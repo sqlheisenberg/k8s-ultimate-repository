@@ -41,5 +41,7 @@ Notes and code form the following books and courses:
 
 
 ## Blogs
+- [Daniel Polencic](https://medium.com/@danielepolencic)
+- [Ivan Velichko](https://iximiuz.com/en/)
 
 ## People to Follow
