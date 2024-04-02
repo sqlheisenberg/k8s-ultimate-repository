@@ -26,7 +26,8 @@ Notes and code form the following books and courses:
 - [EKS GitOps with ArgoCD](https://catalog.workshops.aws/eksgitops-argocd-githubactions/en-US)
 - [EKS Best Practices Guides](https://aws.github.io/aws-eks-best-practices/)  
 - [Amazon EKS Blueprints for Terraform](https://aws-ia.github.io/terraform-aws-eks-blueprints/)  
-- [EKS Cluster Games](https://eksclustergames.com/?s=09)
+- [EKS Cluster Games](https://eksclustergames.com/?s=09)  
+- [AWS Containers Blog - EKS](https://aws.amazon.com/blogs/containers/category/compute/amazon-kubernetes-service/)
 
 ## YouTube
 - [CNCF [Cloud Native Computing Foundation]](https://www.youtube.com/@cncf)  
