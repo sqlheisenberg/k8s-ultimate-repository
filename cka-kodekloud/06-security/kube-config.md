@@ -12,7 +12,10 @@
 
  kubectl config -h
 
- # Namespaces
+ # To use context, run the command
+ # since kubeconfig is not on default location ~/.kube/config. we are providing path to it
+ kubectl config --kubeconfig=/root/my-kube-config use-context research
 
- 
+ #To know the current context, run the command
+ kubectl config --kubeconfig=/root/my-kube-config current-context
  ```
