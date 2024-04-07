@@ -11,9 +11,10 @@ Potentialy could be transformed into K8s monorepo with all resources and notes. 
 
 ## Repo Content  
 Notes and code form the following books and courses:
-- [KodeKloud - CKA Certification Course – Certified Kubernetes Administrator](https://kodekloud.com/courses/certified-kubernetes-administrator-cka/)
-- [Kubernetes in Action 2nd Edition](https://www.manning.com/books/kubernetes-in-action-second-edition)  
-- [Mastering Kubernetes 4th Edition](https://www.amazon.com/Kubernetes-operate-world-class-container-native-systems/dp/1804611395)
+- `cka-kodcloud` - [KodeKloud - CKA Certification Course – Certified Kubernetes Administrator](https://kodekloud.com/courses/certified-kubernetes-administrator-cka/)
+- `books`
+    - [Kubernetes in Action 2nd Edition](https://www.manning.com/books/kubernetes-in-action-second-edition)  
+    - [Mastering Kubernetes 4th Edition](https://www.amazon.com/Kubernetes-operate-world-class-container-native-systems/dp/1804611395)
 
 ## Useful GitHub Repos
 - [Kubernetes-and-Cloud-Native-Associate KCNA](https://github.com/moabukar/Kubernetes-and-Cloud-Native-Associate-KCNA)  

@@ -4,11 +4,11 @@ To use image from private registry within pod defitinion file:
 1. Create secrets for the registry
 `docker-registry` is built in secret type
 ```bash
-kubectl create secret docker-registry regcred \
-    --docker-server=private=registry.io       \
-    --docker-username=registry-user           \
-    --docker-password=registry-password       \
-    --docker-email=registry-user@org.co       \
+kubectl create secret docker-registry private-reg-cred \
+    --docker-server=myprivateregistry.com:5000       \
+    --docker-username=dock_user           \
+    --docker-password=dock_password       \
+    --docker-email=dock_user@myprivateregistry.com       
 ```
 2. Specify secret inside pod defintion file
 ```yaml
