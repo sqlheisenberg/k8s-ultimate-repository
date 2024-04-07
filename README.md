@@ -47,4 +47,8 @@ Notes and code form the following books and courses:
 - [Daniel Polencic](https://medium.com/@danielepolencic)
 - [Ivan Velichko](https://iximiuz.com/en/)
 
+## Tools
+List of tools which makes day to day k8s work easier.
+- [kubectx + kubens](https://github.com/ahmetb/kubectx)
+
 ## People to Follow
