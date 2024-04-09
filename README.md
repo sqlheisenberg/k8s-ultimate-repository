@@ -16,6 +16,10 @@ Notes and code form the following books and courses:
     - [Kubernetes in Action 2nd Edition](https://www.manning.com/books/kubernetes-in-action-second-edition)  
     - [Mastering Kubernetes 4th Edition](https://www.amazon.com/Kubernetes-operate-world-class-container-native-systems/dp/1804611395)
 
+## Documentation
+- [Kubernetes Documentation](https://kubernetes.io/docs/home/)
+- [Kubernetes Container Storage Interface (CSI) Documentation](https://kubernetes-csi.github.io/docs/)
+
 ## Useful GitHub Repos
 - [Kubernetes-and-Cloud-Native-Associate KCNA](https://github.com/moabukar/Kubernetes-and-Cloud-Native-Associate-KCNA)  
 - [walidshaari/Kubernetes-Certified-Administrator](https://github.com/walidshaari/Kubernetes-Certified-Administrator)  
@@ -50,5 +54,6 @@ Notes and code form the following books and courses:
 ## Tools
 List of tools which makes day to day k8s work easier.
 - [kubectx + kubens](https://github.com/ahmetb/kubectx)
+- [awslabs/eks-node-viewer](https://github.com/awslabs/eks-node-viewer)
 
 ## People to Follow
