@@ -4,11 +4,11 @@ Initial idea was to use this repo only for the CKA exam preparation but then it 
 
 ## Kubestronaut 
 Kubestronauts are people who showed exemplary Kubernetes knowledge by passing all five of CNCF’s Kubernetes-related certifications: 
-🔹 Certified Kubernetes Administrator (CKA) 
-🔹 Certified Kubernetes Application Developer (CKAD) 
-🔹 Certified Kubernetes Security Specialist (CKS) 
-🔹 Kubernetes and Cloud Native Associate (KCNA) 
-🔹 Kubernetes and Cloud Security Associate (KCSA) 
+🔹 Certified Kubernetes Administrator (CKA)   
+🔹 Certified Kubernetes Application Developer (CKAD)   
+🔹 Certified Kubernetes Security Specialist (CKS)   
+🔹 Kubernetes and Cloud Native Associate (KCNA)   
+🔹 Kubernetes and Cloud Security Associate (KCSA)   
 
 ## CKA - Certified Kubernetes Administrator
 CKA exam preparation details
