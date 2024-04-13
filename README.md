@@ -11,6 +11,8 @@ Kubestronauts are people who showed exemplary Kubernetes knowledge by passing al
 🔹 Kubernetes and Cloud Native Associate (KCNA)   
 🔹 Kubernetes and Cloud Security Associate (KCSA)   
 
+For more interesting Linux Foundation certifications check following [link](https://www.credly.com/organizations/the-linux-foundation/badges)
+
 ## CKA - Certified Kubernetes Administrator
 CKA exam preparation details
 
