@@ -54,7 +54,7 @@ Notes and code form the following books and courses:
 - [CNCF [Cloud Native Computing Foundation]](https://www.youtube.com/@cncf)  
 - [Containers from the Couch](https://www.youtube.com/containersfromthecouch)
 
-## Exam Scenarios Training
+## Exam Scenarios and Labs
 - [killer.sh](https://killer.sh/)  
 - [killercoda.com](https://killercoda.com/)  
 - [iximiuz Labs](https://labs.iximiuz.com/)
