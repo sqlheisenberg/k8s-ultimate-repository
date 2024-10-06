@@ -1,0 +1,23 @@
+apiVersion: networking.k8s.io/v1
+kind: NetworkPolicy
+metadata: 
+  name: allow-app2
+spect: 
+  podSelector:
+    matchLabels:
+      app: "2"
+  policyTypes:
+    - Ingress
+    - Egress 
+  ingress:
+    -from:
+      - podSelector:
+          matchLabels:
+            app: "1"
+  egress:
+    - to:
+      - podSelector:
+          matchLabels:
+            app: "1"
+    - to:
+      - namespaceSelector: {}

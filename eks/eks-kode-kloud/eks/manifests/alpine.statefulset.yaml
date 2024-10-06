@@ -1,0 +1,35 @@
+apiVersion: apps/v1
+kind: StatefulSet
+metadata: 
+  name: alpine
+  labels:
+    app: alpine
+spec:
+  selector:
+    matchLabels:
+      app: alpine
+  replicas: 1 
+  template:
+    metadata: 
+      labels: 
+        app: alpine
+    spec:
+      containers:
+        - name: alpine
+          image: public.ecr.aws/docker/library/alpine:latest
+          command:
+            - "sh"
+            - "-c"
+            - "sleep 1d"
+          volumeMounts:
+            - name: data
+              mountPath: /data
+  volumeClaimTemplates:
+    - metadata:
+        name: data
+      spec:
+        storageClassName: "gp2"
+        accessModes: [ "ReadWriteOnce" ]
+        resources:
+          requests:
+            storage: 1Gi

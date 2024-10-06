@@ -1,0 +1,33 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: app2
+  labels:
+    app: "2"
+spec:
+  selector:
+    matchLabels:
+      app: "2"
+  replicas: 1
+  template:
+    metadata:
+      labels:
+        app: "2"
+    spec:
+      containers:
+      - name: app2
+        image: nginx
+        ports:
+        - containerPort: 80
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: app2
+spec:
+  type: ClusterIP
+  selector:
+    app: "2"
+  ports:
+  - port: 80
+    targetPort: 80
