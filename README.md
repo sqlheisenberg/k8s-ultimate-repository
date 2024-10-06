@@ -66,6 +66,8 @@ Notes and code form the following books and courses:
 ## Blogs
 - [Daniel Polencic](https://medium.com/@danielepolencic)
 - [Ivan Velichko](https://iximiuz.com/en/)
+- [blog.techiescamp.com/kubernetes-learning-series/](https://blog.techiescamp.com/kubernetes-learning-series/)  
+
 
 ## Tools
 List of tools which makes day to day k8s work easier.
