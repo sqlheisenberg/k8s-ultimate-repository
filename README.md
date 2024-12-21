@@ -62,6 +62,7 @@ Notes and code form the following books and courses:
 ## Books 
 - [Kubernetes in Action 2nd Edition](https://www.manning.com/books/kubernetes-in-action-second-edition)  
 - [Mastering Kubernetes 4th Edition](https://www.amazon.com/Kubernetes-operate-world-class-container-native-systems/dp/1804611395)
+- [Mastering AWS Elastic Kubernetes Services](https://www.amazon.com/Mastering-Elastic-Kubernetes-Services-containerized-ebook/dp/B0DP79J4D3)
 
 ## Blogs
 - [Daniel Polencic](https://medium.com/@danielepolencic)
